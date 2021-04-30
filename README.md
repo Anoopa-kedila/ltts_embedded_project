@@ -1,6 +1,6 @@
 # embC-261625
 
-## This repositry was made in the sole purpose of submission of out embedded C activities.
+## This repositry was made in the sole purpose of submission for ltts embedded project.
 
 ### CASE STUDY
 
